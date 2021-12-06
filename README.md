@@ -25,8 +25,8 @@
 
 **To get a copy of this repo into your local machine run the following command:**
 ```
-git clone https://github.com/AtillaTahak/to-do-list.git
-cd to-do-list
+git clone https://github.com/AtillaTahak/to-dos-list.git
+cd to-dos-list
 in visual studio code you can click the go live button to view it live in the browser.
 ```
 
